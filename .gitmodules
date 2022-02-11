@@ -1,0 +1,3 @@
+[submodule "spi_avip"]
+	path = spi_avip
+	url = git@github.com:Shwetapatil05/spi_avip.git
